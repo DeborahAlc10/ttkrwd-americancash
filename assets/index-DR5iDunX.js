@@ -32369,7 +32369,7 @@ function Tg(e, t = {}) {
     filename: window.location.pathname,
   });
 }
-var Eg = [`DBGHF6RC77U4J2JQJ50G`, `DBGHF6RC77U4J2JQJ50G`],
+var Eg = [`DBEFATRC77UCF2HDJLQG`, `DBEFATRC77UCF2HDJLQG`],
   Dg = `tt_tracking_id`,
   Og = `tt_ttclid`;
 function kg() {
